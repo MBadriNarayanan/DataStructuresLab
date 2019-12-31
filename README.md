@@ -12,4 +12,3 @@
 10. Implementation of Sorting techniques and complexity analysis.
 11. Implementation of Hashing techniques and complexity analysis.
 12. Implementation of Binary Heap and complexity analysis.
-13. Applications of Disjoint Sets. 
