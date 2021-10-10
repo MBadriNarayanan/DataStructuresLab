@@ -1,4 +1,6 @@
-# DataStructures
+# DataStructuresLab
+
+Data Structures Lab work done during III Semester
 
 1. Practice of C Programming using Structures and Union. 
 2. Implementation of List using Arrays and Linked List.
